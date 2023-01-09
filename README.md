@@ -6,3 +6,9 @@ Tool is created to bring in applicant data that includes household income. House
 For privacy reasons, the data made publicly available is not actual applicant data, but imitates the structure and general characteristics of the community served.
 
 Contact rlsandidge@gmail.com for any requests or questions.
+
+
+
+# MIT living wage website
+Link to techincal documentation on web: https://livingwage.mit.edu/resources/Living-Wage-Users-Guide-Technical-Documentation-2022-05-10.pdf
+Link to downloaded version of technical documentation:
