@@ -11,4 +11,4 @@ Contact rlsandidge@gmail.com for any requests or questions.
 
 # MIT living wage website
 Link to techincal documentation on web: https://livingwage.mit.edu/resources/Living-Wage-Users-Guide-Technical-Documentation-2022-05-10.pdf
-Link to downloaded version of technical documentation:
+<br>Link to downloaded version of technical documentation:
